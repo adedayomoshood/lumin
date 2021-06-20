@@ -18,7 +18,7 @@ function ProductList() {
     loading: productListLoading,
     error: productListError,
   } = useQuery(GET_PRODUCTS, {
-    variables: { currency: userCurrency },
+    variables: { currency: userCurrency || 'USD' },
     onError(error) {
       updateUserCurrency(productCurrency);
       toast.closeAll();
