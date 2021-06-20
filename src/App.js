@@ -1,9 +1,20 @@
 import { Fragment } from 'react';
+import {
+  Cart,
+  Header,
+  PageTitle,
+  PersonalizeProduct,
+  ProductList,
+} from './components';
 
 function App() {
   return (
     <Fragment>
-      <h1>Hello Lumin</h1>
+      <Header />
+      <PageTitle />
+      <ProductList />
+      <PersonalizeProduct />
+      <Cart />
     </Fragment>
   );
 }

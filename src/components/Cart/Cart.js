@@ -79,7 +79,7 @@ function Cart() {
         )}
       </DrawerBody>
 
-      {userCart?.length !== 0 && (
+      {userCart && userCart?.length !== 0 && (
         <DrawerFooter
           borderTop="1px solid #d0d0d0"
           boxShadow="0 -4px 12px rgba(0, 0, 0, 0.15)"
