@@ -5,7 +5,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import config from './config/config';
 import ContextProvider from './context/ContextProvider';
-
 import { Fonts, theme } from './styles';
 
 const client = new ApolloClient({
