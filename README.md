@@ -4,11 +4,11 @@ A Frontend Take Home Test from [Pangaea Holdings](https://www.pangaea.holdings/)
 
 ## Project Details
 
-**Live Site:** - `https://store.luminskin.com/products`
+**Live Site:** - [https://store.luminskin.com/products](https://store.luminskin.com/products)
 
-**Live Demo:** - `http://lumin.vercel.app/`
+**Live Demo:** - [http://lumin.vercel.app/](http://lumin.vercel.app/)
 
-**Backend API:** - `https://pangaea-interviews.vercel.app/api/graphql`
+**Backend API:** - [https://pangaea-interviews.vercel.app/api/graphql](https://pangaea-interviews.vercel.app/api/graphql)
 
 ## Requirements
 
